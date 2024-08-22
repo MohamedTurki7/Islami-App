@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">App Islami</string>
+    <string name="quran">Quran</string>
+    <string name="hadeth">Hadeth</string>
+    <string name="sebha">Sebha</string>
+    <string name="radio">Radio</string>
+    <string name="number_of_tasbeh">عدد التسبيحات</string>
+    <string name="name_of_dhikr">سبحان الله</string>
+    <array name="azkarList">
+        <item>سبحان الله</item>
+        <item>الله أكبر</item>
+        <item>لا إله إلا الله</item>
+
+        <item>الحمد لله</item>
+    </array>
+
+
+</resources>
